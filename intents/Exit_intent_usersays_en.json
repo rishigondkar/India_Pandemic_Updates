@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eb7af0c7-af9c-411e-9a69-75d8ac578d9e",
+    "data": [
+      {
+        "text": "Exit now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a0e09c-18cb-44c3-a72d-14b6182dc767",
+    "data": [
+      {
+        "text": "Go away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf1e6ed6-c3d7-46f9-85d4-1b776d973d15",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1c8774c-a5d6-48bd-9723-0bbd90d5e4e5",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f814ea-bb0a-4c97-9c40-5d16d9a14fde",
+    "data": [
+      {
+        "text": "End",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa98cad6-0b68-4577-b05f-ed0b5d914ec3",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

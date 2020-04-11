@@ -1,0 +1,62 @@
+{
+  "id": "37b386c8-6bae-445f-a148-ffb012651b85",
+  "name": "Case_count_total_get_date",
+  "auto": true,
+  "contexts": [
+    "awaiting_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_choice",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_date",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Case_count_total_get_date-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3e330420-459d-49c9-a72b-e4dc96c100da",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Today or any specific date?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

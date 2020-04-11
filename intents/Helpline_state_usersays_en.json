@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a3a340f4-a8cf-43e9-8e35-8a48bfb67436",
+    "data": [
+      {
+        "text": "Emergency helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53ab2e2d-1ab7-4ef4-a595-f0ee33dd2372",
+    "data": [
+      {
+        "text": "Emergency helpline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afe8445b-08ab-4523-88bb-1493ef3b4301",
+    "data": [
+      {
+        "text": "Emergency number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3230651-c107-48fa-bb46-3b0e47199147",
+    "data": [
+      {
+        "text": "Who do I call during emergencies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f665355d-e326-42c7-9eb7-746452e3521f",
+    "data": [
+      {
+        "text": "Helpline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d279e8f-89e3-4a0d-bf29-7607ebb8023b",
+    "data": [
+      {
+        "text": "Helpline please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1847da93-a671-481e-9570-fb3b6e282cb3",
+    "data": [
+      {
+        "text": "Get the helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be1f6291-a981-415e-8519-e857de9d39a4",
+    "data": [
+      {
+        "text": "helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1689d36b-6859-4441-8fef-d80a17aa5538",
+    "data": [
+      {
+        "text": "Whats the helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a7a787f-fcdd-4ed3-94e8-b5975eca014c",
+    "data": [
+      {
+        "text": "What is the helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07d3a21a-5a63-45c2-a1b7-5b9cc801e381",
+    "data": [
+      {
+        "text": "Can I get helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

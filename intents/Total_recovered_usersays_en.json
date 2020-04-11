@@ -1,0 +1,74 @@
+[
+  {
+    "id": "444ca9a5-a833-416b-9024-870dc847b772",
+    "data": [
+      {
+        "text": "How many people have recovered from Covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4954f0f5-214e-440e-b11c-2c661e81806e",
+    "data": [
+      {
+        "text": "How many people have recovered from Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7367b20-5e13-413c-bce2-7b47587e8039",
+    "data": [
+      {
+        "text": "Total recovered cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4e491eb-7ee7-47b2-b23e-27dc361e6f8b",
+    "data": [
+      {
+        "text": "Total recovered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2dfc2aa-227b-4816-a0b8-899af23113da",
+    "data": [
+      {
+        "text": "How many recovered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a47ee8e-2d12-4591-a106-970dbbe5ebd9",
+    "data": [
+      {
+        "text": "How many people have recovered so far",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "acfc5e08-0ccb-4713-a637-9d3f8a78ef4a",
+    "data": [
+      {
+        "text": "Updates for districts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be9d2f76-0dc3-4ec5-8722-c79140523e42",
+    "data": [
+      {
+        "text": "Get me district wise updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ffcb11-c0b2-4d3a-8e1f-613562ee18cf",
+    "data": [
+      {
+        "text": "Get district wise updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94b48be2-b8d0-4df9-8910-1fdd5cda8410",
+    "data": [
+      {
+        "text": "District wise updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

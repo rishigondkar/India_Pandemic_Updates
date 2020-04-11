@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e172a7db-1b4c-4d26-a0b3-99a2f769602a",
+    "data": [
+      {
+        "text": "Example questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ec25ad-bad6-434a-889d-9a73fe8c5f58",
+    "data": [
+      {
+        "text": "Get example questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151ed3f5-7c71-4826-8bef-f3c8911248ba",
+    "data": [
+      {
+        "text": "Get samples",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d61eb62-f938-423f-bcd2-a436bdcb8699",
+    "data": [
+      {
+        "text": "Samples",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a53b6837-74c3-402c-a8e9-060069256917",
+    "data": [
+      {
+        "text": "Get sample questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bf4d0dd-fc82-4ae4-94e2-fd0b5c2ed1ca",
+    "data": [
+      {
+        "text": "Sample questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

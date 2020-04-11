@@ -1,0 +1,107 @@
+[
+  {
+    "id": "097b9201-987f-497e-b544-861ecc389f1a",
+    "data": [
+      {
+        "text": "On which day  were the highest cases of Coronavirus recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ffa3b74-ad8c-48d6-a2d8-1106276958e1",
+    "data": [
+      {
+        "text": "On which day  were highest cases of Corona recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acd0fc7e-3bd4-4af8-9e07-8d46b030ca56",
+    "data": [
+      {
+        "text": "When was there the highest rise in the cases of Corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bba0814-a51c-4797-839c-6f6f9eb070bc",
+    "data": [
+      {
+        "text": "When were maximum cases of corona recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8158a64c-6c4a-426b-859e-45a581eab25c",
+    "data": [
+      {
+        "text": "When were maximum cases recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ae69551-acf7-4f15-997b-df4921343da0",
+    "data": [
+      {
+        "text": "On what date maximum cases of covid 19 were recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d112910-b50f-4635-903a-318cc4de90bf",
+    "data": [
+      {
+        "text": "On what date maximum cases of coronavirus were recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91014933-35a8-48d0-8c90-87dda42ee6d7",
+    "data": [
+      {
+        "text": "On what date ",
+        "userDefined": false
+      },
+      {
+        "text": "maximum",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " cases of corona were recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

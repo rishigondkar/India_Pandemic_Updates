@@ -1,0 +1,128 @@
+[
+  {
+    "id": "b13b3ce4-25cb-4c52-a857-edcd08aa641b",
+    "data": [
+      {
+        "text": "Whom should I call for an emergency in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "059bcc57-4080-45dc-9249-7cffcc9158f5",
+    "data": [
+      {
+        "text": "Helpline for emergency in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56424e06-c131-47a1-9e4d-70d7d27efee9",
+    "data": [
+      {
+        "text": "Which helpline should i call in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b0ddbf1-b4ad-4051-ad69-e85deaca231f",
+    "data": [
+      {
+        "text": "Helpline number for ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f782b587-5f12-4415-ac62-11db85fa9574",
+    "data": [
+      {
+        "text": "What is the helpline number for the ",
+        "userDefined": false
+      },
+      {
+        "text": "state of Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be10451b-518a-49ba-a048-1400e6230a66",
+    "data": [
+      {
+        "text": "What is the helpline number for ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec50796d-331b-40b2-b2c9-e9a183313e78",
+    "data": [
+      {
+        "text": "Get me the helpline number for ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

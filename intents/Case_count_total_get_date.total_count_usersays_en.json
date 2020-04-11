@@ -1,0 +1,152 @@
+[
+  {
+    "id": "b844d322-6d3d-4ea2-8f4b-ecef1eade069",
+    "data": [
+      {
+        "text": "Yes ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " itself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c427461-b78a-4acb-8871-6e73446903b8",
+    "data": [
+      {
+        "text": "Today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " itself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "292cc8ce-a463-4a11-b959-08523cce1331",
+    "data": [
+      {
+        "text": "April 4",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7287a581-1b1b-4425-aa46-1487df04b5ed",
+    "data": [
+      {
+        "text": "On ",
+        "userDefined": false
+      },
+      {
+        "text": "4th April 2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e2e6964-d8e9-4842-b757-bbff505eff62",
+    "data": [
+      {
+        "text": "On ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf736b43-e7e1-40d6-ab21-c9158089d386",
+    "data": [
+      {
+        "text": "Yes, ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38bd2550-fed0-457a-9c18-64c169e83c34",
+    "data": [
+      {
+        "text": "yesterday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "699835ea-fea3-4640-a3ce-25dd423a8c1c",
+    "data": [
+      {
+        "text": "4 april 2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4a1b607-4082-4640-b2f5-bf0bd554cdc8",
+    "data": [
+      {
+        "text": "Today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

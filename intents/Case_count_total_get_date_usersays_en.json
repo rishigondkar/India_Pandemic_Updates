@@ -1,0 +1,164 @@
+[
+  {
+    "id": "66f698ae-cd6c-4f18-89c0-c5451348fd32",
+    "data": [
+      {
+        "text": "Case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09bccac6-c062-41f0-9d42-2fe40c0684ee",
+    "data": [
+      {
+        "text": "Whats the case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "904cc5af-f731-43fb-8a69-0f0b5a0d920e",
+    "data": [
+      {
+        "text": "Tell me the case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed02156-f5fa-4eea-91fa-9ab59d64e172",
+    "data": [
+      {
+        "text": "Total case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d07cdd7-7b84-4d8e-a925-ed3945a8db63",
+    "data": [
+      {
+        "text": "What is the case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9149fc4-9a7b-4177-86f0-5fb908b80ae1",
+    "data": [
+      {
+        "text": "What is the count of corona cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a48104-e454-49d6-a932-18403d3da3ac",
+    "data": [
+      {
+        "text": "Corona ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78c38e95-ac3f-437b-93bf-d3e4ff874287",
+    "data": [
+      {
+        "text": "What is corona ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " case count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7c92406-3d6d-438d-b373-9dcde090a97b",
+    "data": [
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " Corona case count?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ad62fe-a69a-455c-8ea4-e1ee96d44624",
+    "data": [
+      {
+        "text": "What is the case count of corona in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "c3e47772-d97f-4943-96ba-bd6a1441d9bf",
+    "data": [
+      {
+        "text": "Corona cases in the state of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd630f26-56f0-46c7-952a-e2459f84e48d",
+    "data": [
+      {
+        "text": "Corona updates in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec780e51-057a-4040-b9a8-26481246085e",
+    "data": [
+      {
+        "text": "Case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01bdeb3a-fe1b-4977-9260-b729f35f8499",
+    "data": [
+      {
+        "text": "Cases of Coronavirus in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ed1b307-2876-49b1-be15-896722dda559",
+    "data": [
+      {
+        "text": "Number of Corona cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c957e4b-5b89-4ee7-beb6-eaad1bd75379",
+    "data": [
+      {
+        "text": "Corona cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ebd3c9e-b200-4b97-aa83-1e0beb7397f4",
+    "data": [
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": " corona cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c8326d7-e2eb-41a0-9f66-dcc7da9eb1ac",
+    "data": [
+      {
+        "text": "Cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31fbeadc-2504-454c-8905-207f11b0146f",
+    "data": [
+      {
+        "text": "What is the number of cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d7ea169-c2ec-4e8c-b3b5-f60f704b4203",
+    "data": [
+      {
+        "text": "No of cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

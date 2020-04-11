@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8849344a-73f5-4e95-b364-6a3c9c4aafb9",
+    "data": [
+      {
+        "text": "Deaths due to coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffb3a574-acb0-4211-8eff-07d6e4bfea0a",
+    "data": [
+      {
+        "text": "How many people died due to covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1f9768c-5bd1-450a-a1b3-1227241e34ff",
+    "data": [
+      {
+        "text": "How many people died due to Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9f4d950-89f8-44fc-b9af-aafc6a09d384",
+    "data": [
+      {
+        "text": "Total deceased",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e815ad5e-4e32-4da1-beb5-10083b6adae1",
+    "data": [
+      {
+        "text": "Death count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da8cf30e-9c17-4a50-a276-b53887d0b58d",
+    "data": [
+      {
+        "text": "Death toll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00f0206c-a917-4146-b14e-22f019bf290b",
+    "data": [
+      {
+        "text": "Total deaths till now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "d24d2829-8755-4e47-9033-b2f3da7beed3",
+    "data": [
+      {
+        "text": "Updates for the state of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42134c52-a567-4d7b-bbdc-14ad23ea3796",
+    "data": [
+      {
+        "text": "For ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf271771-324c-4b51-bc2c-5d6d85c5bd7f",
+    "data": [
+      {
+        "text": "Updates  for ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5c29c64-7d4e-4df1-bfa3-2300bcd2eda5",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "568c1ce9-a819-4c0d-9b12-b4c0b3858ba2",
+    "data": [
+      {
+        "text": "For the state of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2538dfc7-4cf3-4f74-ad12-0468014a0600",
+    "data": [
+      {
+        "text": "State of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333aae55-a091-4662-906d-f4064b1202e0",
+    "data": [
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

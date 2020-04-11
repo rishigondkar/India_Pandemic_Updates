@@ -1,0 +1,394 @@
+[
+  {
+    "id": "7987b586-d9e8-41a4-a1a3-0f19aad44b49",
+    "data": [
+      {
+        "text": "How many cases of corona on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d46ac16e-16d0-4edd-8ff4-25815691e263",
+    "data": [
+      {
+        "text": "Cases of corona virus on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b0e7de9-879f-4e59-8d8d-4168093411fc",
+    "data": [
+      {
+        "text": "Cases of Corona on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87146926-cdcc-4b9c-82e8-2de232e72441",
+    "data": [
+      {
+        "text": "Covid 19 case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e365915-fa2b-476f-a946-a6c30b7b8aa7",
+    "data": [
+      {
+        "text": "Corona case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8be5376-acb8-4713-a3c1-14447636392c",
+    "data": [
+      {
+        "text": "Corona case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0648a3ed-c356-4c70-9bb9-bbdf587bba2c",
+    "data": [
+      {
+        "text": "Case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76315078-f5f3-45bf-884d-cedb76513bfb",
+    "data": [
+      {
+        "text": "Case count of ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5a53cd3-ce6b-4ca5-856a-7e85c14ba9c8",
+    "data": [
+      {
+        "text": "What was the corona cases count on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56328105-b8ed-435f-9883-484697c3138c",
+    "data": [
+      {
+        "text": "What is the corona case count ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f6f887d-6c91-4348-b922-8ed81b2c1d6b",
+    "data": [
+      {
+        "text": "What is the case count on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "465e784e-60ca-4a5e-bc28-b0ae32bd6e15",
+    "data": [
+      {
+        "text": "What is the case count ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5799cd2-420a-4b82-81b1-ae19ba635b08",
+    "data": [
+      {
+        "text": "Corona case count ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76afd739-45b0-419f-b00e-b65c6a64ae38",
+    "data": [
+      {
+        "text": "Corona case count on ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cfc0277-f184-4066-9684-60df8f3d67e7",
+    "data": [
+      {
+        "text": "cases ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d263374d-f367-42da-b464-457e580c3764",
+    "data": [
+      {
+        "text": "Corona cases ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a87a168-ddfe-406b-8484-4966764b6f97",
+    "data": [
+      {
+        "text": "Corona cases on  ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april 2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d59bc4ef-7b65-43c1-8b9b-6c68d17dedb3",
+    "data": [
+      {
+        "text": "Cases till ",
+        "userDefined": false
+      },
+      {
+        "text": "4 april 2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d12cc103-0635-43ec-881d-e3340b7919ee",
+    "data": [
+      {
+        "text": "Corona cases till ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

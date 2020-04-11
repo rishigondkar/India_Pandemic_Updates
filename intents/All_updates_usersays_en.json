@@ -1,0 +1,202 @@
+[
+  {
+    "id": "073cdf95-ecb3-4a1f-aa37-a2f2477b5181",
+    "data": [
+      {
+        "text": "Covid 19 ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfbe0d10-9e08-47d3-999b-881ee931c45d",
+    "data": [
+      {
+        "text": "Coronavirus ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1d1f8e8-960f-4275-ba79-15b8d2c2362f",
+    "data": [
+      {
+        "text": "India",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " updates ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d938c5ec-40e1-4a8b-b731-cdffd389b9ee",
+    "data": [
+      {
+        "text": "India",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f4c2a8-82ab-4d11-a4b7-c8e0f751ecaa",
+    "data": [
+      {
+        "text": "Coronavirus updates ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b99f02f-0872-42e1-95f3-0124bacc3d91",
+    "data": [
+      {
+        "text": "New",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba763104-2824-4895-82a3-fcb6e785bf16",
+    "data": [
+      {
+        "text": "Todays",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d36e535-2a2c-4655-a9b0-569faedacfe9",
+    "data": [
+      {
+        "text": "Updates for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d53f6e01-bad3-488f-92a6-45e3a23e3d9a",
+    "data": [
+      {
+        "text": "All updates ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac719b24-a4be-40bf-8369-4c2b6a1df5ae",
+    "data": [
+      {
+        "text": "All updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cebf97a7-de3a-43a5-b6f9-e136636af593",
+    "data": [
+      {
+        "text": "Get all updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

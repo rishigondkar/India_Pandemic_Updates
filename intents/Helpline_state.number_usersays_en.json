@@ -1,0 +1,102 @@
+[
+  {
+    "id": "4f01d9b7-0f8c-4562-a847-939678c645b0",
+    "data": [
+      {
+        "text": "I guess ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b02ceae1-cee9-4f16-acdc-fc6192678772",
+    "data": [
+      {
+        "text": "My favourite ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdb790b8-b0b7-4be9-84a5-e4bff150aee4",
+    "data": [
+      {
+        "text": "My state ",
+        "userDefined": false
+      },
+      {
+        "text": "maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "126d0456-3bf6-42af-a367-8af7098a55ef",
+    "data": [
+      {
+        "text": "Maharashtra state",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4c72fc8-f1b6-411a-aa70-b92d85262b85",
+    "data": [
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3daa6d1f-f69e-4872-bc7b-ffd7e21a5bcd",
+    "data": [
+      {
+        "text": "State of ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

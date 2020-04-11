@@ -1,0 +1,9 @@
+{
+  "id": "a3d1a6b9-23b9-4d23-85df-cede3dd9e317",
+  "name": "sys.geo-state",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "88f4158b-0c12-48f8-88bd-4168bb99ae5b",
+    "data": [
+      {
+        "text": "Corona cases ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " city ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " state ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e754d608-daa2-475f-bf44-8fa0b0020512",
+    "data": [
+      {
+        "text": "Covid 19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05a9dbf1-1ede-4fd2-a494-c87c47fccaae",
+    "data": [
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Coronavirus cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "897cedae-24d2-4e16-9919-aea705821e21",
+    "data": [
+      {
+        "text": "New",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d487f4-55d1-4577-87cb-744bcb55fb5f",
+    "data": [
+      {
+        "text": "Number of cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55a29d7d-b997-4499-bc7e-918df03a5c0e",
+    "data": [
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "712d0e0e-ee55-418c-82b4-9be1553eeac3",
+    "data": [
+      {
+        "text": "Cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b250589-14f4-42f9-8481-eaabfcb3b609",
+    "data": [
+      {
+        "text": "How many cases in city of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "geo-city",
+        "meta": "@geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "c05e0dc5-811c-4b22-b6ac-96b4bda51b0e",
+  "parentId": "4cdc7623-849e-4f17-8bed-b3fda18587b4",
+  "rootParentId": "4cdc7623-849e-4f17-8bed-b3fda18587b4",
+  "name": "Helpline_state.number - repeat",
+  "auto": true,
+  "contexts": [
+    "awaiting_state_helpline",
+    "Helpline_statenumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Helpline_statenumber.Helpline_statenumber-repeat",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

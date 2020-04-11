@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ba846637-04e9-429d-a831-8aa623d50c54",
+    "data": [
+      {
+        "text": "Statewise count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ba6c6b1-9ec8-4095-b933-0102932ec2ee",
+    "data": [
+      {
+        "text": "State count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9287107-8ded-4b9f-bee9-6c9c851c8f4d",
+    "data": [
+      {
+        "text": "Statewise updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4ca1af8-f958-4b21-b099-e99a20712acf",
+    "data": [
+      {
+        "text": "Give ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " updates for a state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

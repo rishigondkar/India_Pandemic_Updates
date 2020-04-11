@@ -1,0 +1,63 @@
+{
+  "id": "51f9f02c-37a9-4140-be72-c9d63ee58a0a",
+  "name": "Case_count_get_district",
+  "auto": true,
+  "contexts": [
+    "awaiting_choice",
+    "awaiting_district"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_choice",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_district_state",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_district",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a6ab726-6190-41f0-9b97-f73ccdfacab4",
+          "required": false,
+          "dataType": "@geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please specify both, District and State."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

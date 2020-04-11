@@ -1,0 +1,49 @@
+{
+  "id": "a67bc1c3-3197-4252-811e-2a36f4a5762c",
+  "name": "Districtwise_get_district",
+  "auto": true,
+  "contexts": [
+    "awaiting_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_district",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_choice",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_district_state",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please specify the District and State."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
